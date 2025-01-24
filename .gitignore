@@ -47,7 +47,3 @@ Thumbs.db
 # React Native
 .expo/
 .expo-shared/
-
-# HTML/CSS specific
-*.html
-*.css
